@@ -9,6 +9,9 @@ cenpy = "*"
 osmnx = "*"
 contextily = "*"
 networkx = "*"
+ipykernel = "*"
+sortedcontainers = "*"
+kneed = "*"
 
 [dev-packages]
 
