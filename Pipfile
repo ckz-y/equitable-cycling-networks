@@ -12,6 +12,7 @@ networkx = "*"
 ipykernel = "*"
 sortedcontainers = "*"
 kneed = "*"
+gurobipy = "*"
 
 [dev-packages]
 
